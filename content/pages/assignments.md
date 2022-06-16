@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,14 +11,14 @@ uid: 6fb1102b-2dec-5c1a-c69a-5e98af204053
 Problem Sets
 ------------
 
-Problem Set 1: Kernel Hilbert Spaces  ([PDF]({{< baseurl >}}/resources/problem_set1))
+Problem Set 1: Kernel Hilbert Spaces  ({{% resource_link f690f430-67e5-398f-9718-3b255f094c0e "PDF" %}})
 
-Problem Set 2: RBF Interpolation Schemes ([PDF]({{< baseurl >}}/resources/second_set))
+Problem Set 2: RBF Interpolation Schemes ({{% resource_link 9ba5285e-d355-7d31-aaec-aaf2dbb18949 "PDF" %}})
 
 Project
 -------
 
-([PDF]({{< baseurl >}}/resources/projects2002))
+({{% resource_link f25bf265-0fd6-8258-38eb-2c904a3b2d26 "PDF" %}})
 
 For the final project, students select from one of the following suggested topics, and solve the problem that is described. If students prefer, they can bring their own project ideas to the professor or TAs for approval.
 

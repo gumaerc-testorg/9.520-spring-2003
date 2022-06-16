@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 3669bc8f-ba88-794e-6a68-ed2c990f7594
 ---
 
-There is no textbook for this course. All the required information will be presented in the slides associated with each class. The books and articles listed below are useful general reference reading, especially from the theoretical viewpoint. Additional readings are listed in the [lecture note]({{< baseurl >}}/pages/lecture-notes) PDF files.
+There is no textbook for this course. All the required information will be presented in the slides associated with each class. The books and articles listed below are useful general reference reading, especially from the theoretical viewpoint. Additional readings are listed in the {{% resource_link c3405bb5-75a1-6db6-0da2-86904c35ff6c "lecture note" %}} PDF files.
 
 Cristianini, N., and J. Shawe-Taylor. _Introduction To Support Vector Machines_. Cambridge, 2000.
 
