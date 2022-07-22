@@ -5,6 +5,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/12
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: svmrules.pdf
 uid: 129254d0-9b98-66c9-6c2f-ed273bbca01c
 ---
 SVM Rules of Thumb
-

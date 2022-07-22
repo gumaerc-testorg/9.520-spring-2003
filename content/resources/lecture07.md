@@ -5,6 +5,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/27
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture07.pdf
 uid: 2717221e-e3d6-f548-03b8-5e6c8d5a68d0
 ---
 Lecture 07: Regression
-

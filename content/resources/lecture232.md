@@ -9,6 +9,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 41c8b323-cc11-72c8-686f-db95ed04f7fb
 Lecture 23: Inverse operator equations,
 density estimation, and frame-based
 RKHS
-

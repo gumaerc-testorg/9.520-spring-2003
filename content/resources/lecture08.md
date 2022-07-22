@@ -5,6 +5,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture08.pdf
 uid: 49b58a1a-2c3d-7efd-6ef5-bd2cb6a1bf8a
 ---
 Lecture 08: Generalization Bounds and Stability.
-

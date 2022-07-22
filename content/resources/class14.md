@@ -5,6 +5,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/5f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class14.pdf
 uid: 5f96eb68-fe7c-66f0-f7b5-bea20eb1a044
 ---
 RKHS, Mercer's Theorem, Unbounded Domains, Frames and Wavelets
-

@@ -7,6 +7,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/1a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 1a7e897c-9d73-e66f-1d31-c699f39d7e74
 ---
 Lecture 12: Measure of hypothesis
 complexity: VC and V-gamma dimensions
-
