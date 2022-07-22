@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d04a3d6a-a506-b59e-0910-e9f9472b92db
 ---
@@ -22,12 +25,12 @@ Prerequisites
 Grading
 -------
 
-There will be two problem sets, a MATLAB® assignment, and a final project. To receive credit, you must attend regularly, and put in effort on all problem sets and the project.
+There will be two problem sets, a MATLAB{{< sup "®" >}} assignment, and a final project. To receive credit, you must attend regularly, and put in effort on all problem sets and the project.
 
 Problem Sets
 ------------
 
-See the [assignments]({{< baseurl >}}/pages/assignments) page for the two problem sets.
+See the {{% resource_link 6fb1102b-2dec-5c1a-c69a-5e98af204053 "assignments" %}} page for the two problem sets.
 
 {{< anchor "projects" >}}{{< /anchor >}}Projects
 ------------------------------------------------
