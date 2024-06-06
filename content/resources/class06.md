@@ -2,6 +2,7 @@
 content_type: resource
 description: Generalization Bounds and Stability
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/cbeff6178683ade20114d9eb05183b58_class06.pdf
+file_size: 88566
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

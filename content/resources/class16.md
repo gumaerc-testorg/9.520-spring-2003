@@ -2,6 +2,7 @@
 content_type: resource
 description: Text Classification
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/59a1f50d16856f82da445c902747931a_class16.pdf
+file_size: 274556
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

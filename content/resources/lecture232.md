@@ -6,6 +6,7 @@ description: 'Lecture 23: Inverse operator equations,
 
   RKHS'
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/41c8b323cc1172c8686fdb95ed04f7fb_lecture232.pdf
+file_size: 63983
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
