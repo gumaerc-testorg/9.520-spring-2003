@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set 1
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/f690f43067e5398f97183b255f094c0e_problem_set1.pdf
+file_size: 218436
 file_type: application/pdf
 learning_resource_types:
 - Assignments
