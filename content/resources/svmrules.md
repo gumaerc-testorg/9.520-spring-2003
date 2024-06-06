@@ -2,6 +2,7 @@
 content_type: resource
 description: SVM Rules of Thumb
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/129254d09b9866c96c2fed273bbca01c_svmrules.pdf
+file_size: 49103
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 13: Bagging and Boosting'
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/2eccbd20025d408bb2eb41e2c601eb64_lecture13.pdf
+file_size: 72358
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
