@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 23: Bayesian Interpretations'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/8c5d7e91256844f8a6857ad04b9133e3_lecture23.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/8c5d7e91256844f8a6857ad04b9133e3_lecture23.pdf
 file_size: 61178
 file_type: application/pdf
 learning_resource_types:
