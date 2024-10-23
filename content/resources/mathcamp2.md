@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Math Camp 2: Convex Optimization'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/70e8bb73cc1289dc41fac4942bbeb2e8_mathcamp2.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/70e8bb73cc1289dc41fac4942bbeb2e8_mathcamp2.pdf
 file_size: 70041
 file_type: application/pdf
 learning_resource_types:

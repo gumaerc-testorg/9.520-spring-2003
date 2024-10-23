@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 17: Hypothesis Spaces on Unbounded Domains'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/924b50f500a5cccd9331611529387dff_lecture17.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/924b50f500a5cccd9331611529387dff_lecture17.pdf
 file_size: 71746
 file_type: application/pdf
 learning_resource_types:
