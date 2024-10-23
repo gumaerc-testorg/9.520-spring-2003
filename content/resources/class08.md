@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Uniform Convergence and Consistency
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/49e5389268aaeec521d1e757455d5809_class08.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/49e5389268aaeec521d1e757455d5809_class08.pdf
 file_size: 167658
 file_type: application/pdf
 learning_resource_types:

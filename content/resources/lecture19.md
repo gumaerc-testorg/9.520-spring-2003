@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 19: Bioinformatics'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/354bf9972bd90eb6fdcbdac79d1004f8_lecture19.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/354bf9972bd90eb6fdcbdac79d1004f8_lecture19.pdf
 file_size: 74903
 file_type: application/pdf
 learning_resource_types:
