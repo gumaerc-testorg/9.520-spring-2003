@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Approximation Error and Approximation Theory
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/0360689c9a1c76fa1541ac41e8adfb28_class13.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/0360689c9a1c76fa1541ac41e8adfb28_class13.pdf
 file_size: 165487
 file_type: application/pdf
 learning_resource_types:

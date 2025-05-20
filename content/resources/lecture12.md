@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture 12: Measure of hypothesis
 
   complexity: VC and V-gamma dimensions'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/1a7e897c9d73e66f1d31c699f39d7e74_lecture12.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/1a7e897c9d73e66f1d31c699f39d7e74_lecture12.pdf
 file_size: 68860
 file_type: application/pdf
 learning_resource_types:

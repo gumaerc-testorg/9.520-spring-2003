@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 07: Regression'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/2717221ee3d6f54803b85e6c8d5a68d0_lecture07.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/2717221ee3d6f54803b85e6c8d5a68d0_lecture07.pdf
 file_size: 70688
 file_type: application/pdf
 learning_resource_types:
