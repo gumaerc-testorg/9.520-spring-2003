@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Math Camp 1: Functional Analysis'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/e266bc50309ce337c40d6aa3ac1f0cbd_mathcamp1slides.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/e266bc50309ce337c40d6aa3ac1f0cbd_mathcamp1slides.pdf
 file_size: 318531
 file_type: application/pdf
 learning_resource_types:

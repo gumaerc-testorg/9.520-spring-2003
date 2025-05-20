@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 06: Solving Large-Scale SVMs'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/310d0fd5b5c10e115f4faa20b8cb2194_lecture06.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/310d0fd5b5c10e115f4faa20b8cb2194_lecture06.pdf
 file_size: 74777
 file_type: application/pdf
 learning_resource_types:

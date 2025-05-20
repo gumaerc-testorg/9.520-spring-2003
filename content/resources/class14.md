@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: RKHS, Mercer's Theorem, Unbounded Domains, Frames and Wavelets
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/5f96eb68fe7c66f0f7b5bea20eb1a044_class14.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/5f96eb68fe7c66f0f7b5bea20eb1a044_class14.pdf
 file_size: 438697
 file_type: application/pdf
 learning_resource_types:

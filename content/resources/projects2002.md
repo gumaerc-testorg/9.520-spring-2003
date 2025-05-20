@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ideas for 2002 Projects
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/f25bf2650fd6825838eb2c904a3b2d26_projects2002.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/f25bf2650fd6825838eb2c904a3b2d26_projects2002.pdf
 file_size: 57677
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 08: Generalization Bounds and Stability.'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/49b58a1a2c3d7efd6ef5bd2cb6a1bf8a_lecture08.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/49b58a1a2c3d7efd6ef5bd2cb6a1bf8a_lecture08.pdf
 file_size: 77406
 file_type: application/pdf
 learning_resource_types:

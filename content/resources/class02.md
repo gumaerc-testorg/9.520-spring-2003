@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Learning Problem and Regularization
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/1b0cd4a68bf1fd1b5345f31adacc6e48_class02.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/1b0cd4a68bf1fd1b5345f31adacc6e48_class02.pdf
 file_size: 211396
 file_type: application/pdf
 learning_resource_types:
