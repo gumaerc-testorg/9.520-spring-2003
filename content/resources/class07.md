@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Stability of Tikhonov Regularization
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/4f3b36232b122f57857d49fce5bd8f11_class07.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/4f3b36232b122f57857d49fce5bd8f11_class07.pdf
 file_size: 102377
 file_type: application/pdf
 learning_resource_types:

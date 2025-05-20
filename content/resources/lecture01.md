@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 1: The Course at a Glance'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/6bae8a4a5055861e2679c40ff95df414_lecture01.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/6bae8a4a5055861e2679c40ff95df414_lecture01.pdf
 file_size: 60401
 file_type: application/pdf
 learning_resource_types:

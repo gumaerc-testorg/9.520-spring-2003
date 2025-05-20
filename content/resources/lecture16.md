@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 16: Text'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/3d6823730e7a79c0a79867010d2105ff_lecture16.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/3d6823730e7a79c0a79867010d2105ff_lecture16.pdf
 file_size: 48174
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bayesian Interpretations
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/e8eeb7c0cd1590a63c999cc368a2eeff_class20.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/e8eeb7c0cd1590a63c999cc368a2eeff_class20.pdf
 file_size: 171278
 file_type: application/pdf
 learning_resource_types:

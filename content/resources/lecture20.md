@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 20: Text'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/3014cb3d7448f545da986c777c8bd51d_lecture20.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/3014cb3d7448f545da986c777c8bd51d_lecture20.pdf
 file_size: 69303
 file_type: application/pdf
 learning_resource_types:

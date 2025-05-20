@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 3: Reproducing Kernel Hilbert Spaces'
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/c60831d52fe513738a763ec58064392d_lecture03.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/c60831d52fe513738a763ec58064392d_lecture03.pdf
 file_size: 80262
 file_type: application/pdf
 learning_resource_types:

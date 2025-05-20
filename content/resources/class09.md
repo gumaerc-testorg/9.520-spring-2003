@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Measures of Hypothesis Complexity
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/20bbd82f2de96e5ec227e43d35d1bc48_class09.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/20bbd82f2de96e5ec227e43d35d1bc48_class09.pdf
 file_size: 161321
 file_type: application/pdf
 learning_resource_types:
