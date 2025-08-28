@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Regression and Least-Squares Classification
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/a6ec2449cfe17040762f01190d442f32_class04.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/a6ec2449cfe17040762f01190d442f32_class04.pdf
 file_size: 128670
 file_type: application/pdf
 learning_resource_types:

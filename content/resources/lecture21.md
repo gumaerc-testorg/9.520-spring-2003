@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture 21: Computer Vision, Object
 
   Detection'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/eb11740fde78da7de2875c307e62f87a_lecture21.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/eb11740fde78da7de2875c307e62f87a_lecture21.pdf
 file_size: 66789
 file_type: application/pdf
 learning_resource_types:
