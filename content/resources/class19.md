@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Leave-one-out approximations
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/24bbdec05eccb55a747baf9b868b5260_class19.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/24bbdec05eccb55a747baf9b868b5260_class19.pdf
 file_size: 176934
 file_type: application/pdf
 learning_resource_types:

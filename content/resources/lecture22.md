@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 22: Morphable Models and Talking Faces'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/d642d244181896fc676bfd538c2ff819_lecture22.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/d642d244181896fc676bfd538c2ff819_lecture22.pdf
 file_size: 67154
 file_type: application/pdf
 learning_resource_types:
