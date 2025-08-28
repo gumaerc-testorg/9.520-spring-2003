@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set 2
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2003/9ba5285ed3557d31aaecaaf2dbb18949_second_set.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2003/9ba5285ed3557d31aaecaaf2dbb18949_second_set.pdf
 file_size: 89061
 file_type: application/pdf
 learning_resource_types:
